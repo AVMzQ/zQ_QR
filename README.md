@@ -1,1 +1,2 @@
-Generador de codigos Qr, Si lo utilizas no olvides mencionarme ;)
+Generador de codigos Qr
+Si lo utilizas no olvides mencionarme ;)
