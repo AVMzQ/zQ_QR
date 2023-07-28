@@ -1,0 +1,13 @@
+C:\Users\angel\source\repos\Generador de  Qr's\Generador de  Qr's\bin\Debug\Generador de  Qr's.exe.config
+C:\Users\angel\source\repos\Generador de  Qr's\Generador de  Qr's\bin\Debug\Generador de  Qr's.exe
+C:\Users\angel\source\repos\Generador de  Qr's\Generador de  Qr's\bin\Debug\Generador de  Qr's.pdb
+C:\Users\angel\source\repos\Generador de  Qr's\Generador de  Qr's\bin\Debug\QRCoder.dll
+C:\Users\angel\source\repos\Generador de  Qr's\Generador de  Qr's\obj\Debug\Generador de  Qr's.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\Generador de  Qr's\Generador de  Qr's\obj\Debug\Generador de  Qr's.csproj.SuggestedBindingRedirects.cache
+C:\Users\angel\source\repos\Generador de  Qr's\Generador de  Qr's\obj\Debug\Generador_de__Qr_s.Form1.resources
+C:\Users\angel\source\repos\Generador de  Qr's\Generador de  Qr's\obj\Debug\Generador_de__Qr_s.Properties.Resources.resources
+C:\Users\angel\source\repos\Generador de  Qr's\Generador de  Qr's\obj\Debug\Generador de  Qr's.csproj.GenerateResource.cache
+C:\Users\angel\source\repos\Generador de  Qr's\Generador de  Qr's\obj\Debug\Generador de  Qr's.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\Generador de  Qr's\Generador de  Qr's\obj\Debug\Generador de  Qr's.csproj.CopyComplete
+C:\Users\angel\source\repos\Generador de  Qr's\Generador de  Qr's\obj\Debug\Generador de  Qr's.exe
+C:\Users\angel\source\repos\Generador de  Qr's\Generador de  Qr's\obj\Debug\Generador de  Qr's.pdb
